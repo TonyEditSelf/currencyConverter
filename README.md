@@ -1,0 +1,1 @@
+This is a Currency Converter project made with HTML, Tailwind CSS and JavaScript.
